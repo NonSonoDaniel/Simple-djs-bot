@@ -1,4 +1,4 @@
-# Tutto quello che si fa all'interno del bot
+# Tutto quello che c'è da sapere sul bot
 
 Iniziamo dalle basi del bot creando i file:
 
