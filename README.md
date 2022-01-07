@@ -1,6 +1,7 @@
 # Tutto quello che si fa all'interno del bot
 
-Iniziamo dalle basi del bot creando i file: 
+Iniziamo dalle basi del bot creando i file:
+
 **index.js**, il cuore del bot, lì gestiremo ogni file.js dalla creazione fino all'attivazione del comando vero e proprio.
 
 **config.json**, in questo file metteremo tutte le configurazioni che ci potranno servire per semplificare il nostro bot, per esempio possiamo inserire il nostro token e il nostro prefisso, dei canali dove vogliamo che il bot invii dei messaggi e così via.
